@@ -41,6 +41,7 @@
 - [시스템 구조도](https://github.com/capstone-aloha#%EB%B0%A9-%EA%B5%AC%ED%95%98%EA%B8%B0-%ED%95%84%ED%84%B0%EB%A7%81)
 - [주요 화면](https://github.com/capstone-aloha#-%EC%A3%BC%EC%9A%94-%ED%99%94%EB%A9%B4)
 - [팀 정보](https://github.com/capstone-aloha#-%ED%8C%80-%EC%A0%95%EB%B3%B4)
+- [상장](https://github.com/capstone-aloha#-%ED%8C%80-%EC%A0%95%EB%B3%B4)
 
 
 ## 📍 개요
@@ -187,3 +188,7 @@
 
 </table>
 </div>
+
+
+## 🥇 상장
+<img width="350" height="500" alt="상장" src="https://github.com/capstone-aloha/.github/assets/120379834/a15fa610-fc6e-421d-8763-3e4589d2f268">
