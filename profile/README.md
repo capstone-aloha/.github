@@ -191,4 +191,4 @@
 
 
 ## 🥇 상장
-<img width="700" height="1000" alt="상장" src="https://github.com/capstone-aloha/.github/assets/120379834/a15fa610-fc6e-421d-8763-3e4589d2f268">
+<img width="550" height="800" alt="상장" src="https://github.com/capstone-aloha/.github/assets/120379834/a15fa610-fc6e-421d-8763-3e4589d2f268">
