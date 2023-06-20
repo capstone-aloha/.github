@@ -36,6 +36,8 @@
 - [핵심 기능](https://github.com/capstone-aloha#-%EC%8B%A4%ED%96%89-%EB%B0%8F-%EC%84%A4%EC%B9%98-%EB%B0%A9%EB%B2%95)
   * [해시태그 등록](https://github.com/capstone-aloha#%ED%95%B4%EC%8B%9C%ED%83%9C%EA%B7%B8-%EB%93%B1%EB%A1%9D)
   * [방 구하기](https://github.com/capstone-aloha#%EB%B0%A9-%EA%B5%AC%ED%95%98%EA%B8%B0-%ED%95%84%ED%84%B0%EB%A7%81)
+  * [방 상세보기](https://github.com/capstone-aloha#%EB%B0%A9-%EC%83%81%EC%84%B8%EB%B3%B4%EA%B8%B0)
+  * [커뮤니티](https://github.com/capstone-aloha#%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0)
 - [기술 스택](https://github.com/capstone-aloha#%EB%B0%A9-%EA%B5%AC%ED%95%98%EA%B8%B0-%ED%95%84%ED%84%B0%EB%A7%81)
 - [시스템 구조도](https://github.com/capstone-aloha#%EB%B0%A9-%EA%B5%AC%ED%95%98%EA%B8%B0-%ED%95%84%ED%84%B0%EB%A7%81)
 - [주요 화면](https://github.com/capstone-aloha#-%EC%A3%BC%EC%9A%94-%ED%99%94%EB%A9%B4)
